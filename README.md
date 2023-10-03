@@ -1,8 +1,7 @@
-# JS-Projects
+# Project Title
 
-You can see all projects in action here
+All Project's Deploy Liks:
 
-Projects
 
-Weather Control App
-To Do Task List App
+1. Weather Control App: https://weathercontrolapp.netlify.app/
+2. To Do Task List App: https://todotasklistapp.netlify.app/
